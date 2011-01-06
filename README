@@ -12,7 +12,7 @@ bis_milb_id - BIS ID numbers (I think?) for players who haven't played in the ma
 
 retrosheet_id - ID numbers for Retrosheet (wwww.retrosheet.org). [String]
 
-baseball_prospectus_id - ID system for Baseball Prospectus' player cards and PECOTA. [String]
+baseball_prospectus_id - ID system for Baseball Prospectus' player cards and PECOTA. (www.baseballprospectus.com) [String]
 
 stats_inc_id - ID numbers from STATS, Inc. (www.stats.com) [Integer]
 
