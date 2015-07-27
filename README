@@ -1,5 +1,7 @@
 mlb_rosetta - A universal baseball player crosswalk
 
+# This project has been discontinued, see the Chadwick Register for a regularly maintained crosswalk: http://chadwick-bureau.com/the-register/
+
 id - Major League Baseball Advanced Media (MLBAM) ID number. This is the ID number you see at the end of a URL when you look at a player's profile page at mlb.com or a team site. [Integer]
 
 first - first name [String]
